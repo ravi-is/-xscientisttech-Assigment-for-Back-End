@@ -18,3 +18,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 2. Open the project folder in your code editor.
 
+##snapshot
+
+
+![Screenshot (296)](https://github.com/ravi-is/-xscientisttech-Assigment-for-Back-End/assets/69785346/7b864ee0-fe57-4088-a7a2-6ab852f3a953)
